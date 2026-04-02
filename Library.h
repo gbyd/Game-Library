@@ -109,7 +109,7 @@ class Library{
  * @post data is written to a file. the file is either created or overwritten
  * 
  */
-  void save_to_file(std::string filename);
+  void store_to_file(std::string filename);
 
 
 /**

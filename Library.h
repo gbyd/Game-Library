@@ -7,7 +7,7 @@
  * Declares the Library class. It manages a collection of games using a standard linked list.
  */
 
-#indef LIBRARY_H
+#ifndef LIBRARY_H
 #define LIBRARY_H
 
 #include <list>

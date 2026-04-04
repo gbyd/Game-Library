@@ -7,7 +7,7 @@
  * Defines the data structure used to store info about video games.
  */
 
-#indef GAME_H
+#ifndef GAME_H
 #define GAME_H
 
 #include <string>

@@ -10,6 +10,7 @@ This project implements a game library database using STL. It uses std::list to 
 - The < operator was overloaded for easy comparisons.
 - A multi line format is used to handle titles and publishers that contain spaces.
 - The search feature is case sensitive.
+- An example database file 'games_db.txt' is provided.
 
 --- How to Run: ---
 1. Type make to compile.
